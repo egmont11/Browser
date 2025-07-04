@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrowserVibe", "BrowserVibe\BrowserVibe.csproj", "{42553DAC-B205-4CE0-B2D5-5D389DC09C23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Browser", "Browser\Browser.csproj", "{15876572-AD68-4635-91C8-C5F74E4AB760}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{42553DAC-B205-4CE0-B2D5-5D389DC09C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42553DAC-B205-4CE0-B2D5-5D389DC09C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42553DAC-B205-4CE0-B2D5-5D389DC09C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15876572-AD68-4635-91C8-C5F74E4AB760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15876572-AD68-4635-91C8-C5F74E4AB760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15876572-AD68-4635-91C8-C5F74E4AB760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15876572-AD68-4635-91C8-C5F74E4AB760}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
